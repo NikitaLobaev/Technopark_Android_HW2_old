@@ -1,0 +1,3 @@
+<resources>
+	<integer name="numberslist_RecyclerView_spanCount">4</integer>
+</resources>
