@@ -1,0 +1,6 @@
+<resources>
+	<integer name="numberslist_RecyclerView_spanCount">3</integer>
+	<dimen name="numberslist_TextView_textSize">24sp</dimen>
+	<dimen name="number_TextView_minWH">48dp</dimen>
+	<dimen name="number_TextView_textSize">48sp</dimen>
+</resources>
